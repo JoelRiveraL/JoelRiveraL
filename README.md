@@ -1,9 +1,6 @@
 <div align="center">
-<<<<<<< HEAD
   <img height="250" src="./Img/imagen2.png"  />
-=======
   <img height="300" src="./Img/imagen1.png"  />
->>>>>>> 8759ac15bc563c6c8a95cb1fdb1933f815785699
 </div>
 
 ###
