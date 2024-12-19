@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Joel Rivera</h1>
 <h3 align="center">A passionate full stack developer from Ecuador</h3>
 
-- 🔭 I’m currently working on [MoneyTracker](https://github.com/JoelRiveraL/MoneyTracker.git)
+- 🔭 I’m currently working on Construex Company as a Frontend developer.
 
 - 🌱 I’m currently learning **Next.js, Nest.js, Python, Pentesting, Docker**
 
